@@ -1,1 +1,79 @@
+# Environment variables
 .env
+.env.local
+.env.development
+.env.test
+.env.production
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Python virtual environments
+venv/
+env/
+ENV/
+.venv/
+.python-version
+.Python
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+*.egg
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+.hypothesis/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# VS Code
+.vscode/
+.idea/
+
+# Playwright
+.auth/
+**/playwright-report/
+**/test-results/
+**/playwright/.cache/
+
+# Debug files
+*.log
+*.png
+*.html
+*.json
+job_page.html
+job_page_initial.png
+job_page_final.png
+before_dismiss_modal.png
+after_dismiss_modal.png
+login_page.png
+after_login.png
+security_check.png
+navigation_error.png
+navigation_after_login_error.png
+job_fetch_error.png
+job_data_extraction.png
+page_content.html
+page_content.md
+
+# OS specific files
+.DS_Store
+Thumbs.db
