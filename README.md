@@ -1,6 +1,6 @@
-# LinkedIn Job API
+# AI Crawler Microservice
 
-A FastAPI-based API for fetching LinkedIn job data.
+A FastAPI-based Crawler for fetching data from links.
 
 ## Features
 
