@@ -7,6 +7,7 @@ A FastAPI-based Crawler for fetching data from links.
 - Fetch LinkedIn job data by URL
 - Support for different LinkedIn URL formats
 - Detailed job information including title, company, description, and more
+- Instagram reel finder
 
 ## Setup
 
@@ -132,3 +133,7 @@ python test_jobs_endpoint.py  # Test the /jobs endpoint
 ## License
 
 MIT
+
+## Author
+
+Nithin Valiyaveedu
